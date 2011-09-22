@@ -1,6 +1,6 @@
 === Offsite Post ===
 
-Contributors: PatHawks,DirtySuds
+Contributors: dirtysuds,pathawks
 Tags: plugins, wordpress, post, link, 301, offsite, redirect
 Requires at least: 3.1
 Tested up to: 3.2
