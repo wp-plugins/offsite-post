@@ -1,7 +1,7 @@
 === Offsite Post ===
 
 Contributors: dirtysuds,pathawks
-Tags: plugins, wordpress, post, link, 301, offsite, redirect
+Tags: bookmark,bookmarking,bookmarks,filter,free,integration,link,links, permalink, plugin, plugins, post,posts,simple,url,wordpress,redirect,offsite
 Requires at least: 3.1
 Tested up to: 3.2
 Stable tag: trunk
