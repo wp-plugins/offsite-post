@@ -54,5 +54,12 @@ function dirtysuds_link_do_redirect($single_template) {
 		return $single_template;
 }
 
+function dirtysuds_link_rate($links,$file) {
+		if (plugin_basename(__FILE__) == $file) {
+			$links[] = '<a href="http://wordpress.org/extend/plugins/offsite-post/">Rate this plugin</a>';
+		}
+	return $links;
+}
+add_filter('plugin_row_meta', 'dirtysuds_link_rate',10,2);
 add_filter('single_template', 'dirtysuds_link_do_redirect');
 add_filter('post_link', 'dirtysuds_link_filter_permalink',1,2);
