@@ -1,6 +1,6 @@
 === Offsite Post ===
 
-Contributors: Pat Hawks
+Contributors: PatHawks,DirtySuds
 Tags: plugins, wordpress, post, link, 301, offsite, redirect
 Requires at least: 3.1
 Tested up to: 3.2
@@ -15,14 +15,14 @@ After you activate the plugin, any post with the post type "Link" will redirect 
 
 == Installation ==
 
-1. Upload 'dirtysuds-category-thumbnail' to the '/wp-content/plugins/' directory
-2. Activate **DirtySuds - Category Thumbnail** through the 'Plugins' menu in WordPress
+1. Upload 'offsite-post' to the '/wp-content/plugins/' directory
+2. Activate **Offsite Post** through the 'Plugins' menu in WordPress
 
 == Frequently Asked Questions ==
 
 = Who can I contact for support? =
 
-Pat Hawks is the man for that job. [pat@dirtysuds.com](mailto:pat@dirtysuds.com)
+Pat Hawks is the man for that job. [plugins@dirtysuds.com](mailto:plugins@dirtysuds.com)
 
 == Changelog ==
 
