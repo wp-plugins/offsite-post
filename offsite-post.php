@@ -1,6 +1,6 @@
 <?php
 /*
-Plugin Name: DirtySuds - 301 Link
+Plugin Name: Offsite Post
 Plugin URI: http://dirtysuds.com
 Description: Redirects Links offsite
 Author: Pat Hawks
