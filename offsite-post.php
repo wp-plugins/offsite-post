@@ -3,9 +3,9 @@
 Plugin Name: Offsite Post
 Plugin URI: http://dirtysuds.com
 Description: Redirects Links offsite
-Author: Pat Hawks
+Author: Dirty Suds
 Version: 1.00
-Author URI: http://www.pathawks.com
+Author URI: http://dirtysuds.com
 
 Updates:
 1.00.20110226 - First Version
