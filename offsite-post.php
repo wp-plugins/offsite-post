@@ -6,6 +6,7 @@ Description: Redirects Links offsite
 Author: Dirty Suds
 Version: 1.00
 Author URI: http://dirtysuds.com
+License: GPL2
 
 Updates:
 1.00.20110226 - First Version
