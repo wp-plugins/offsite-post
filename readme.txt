@@ -3,7 +3,7 @@ Contributors: pathawks,dirtysuds
 Donate link: https://github.com/pathawks/offsite-post
 Tags: bookmark,bookmarking,bookmarks,filter,free,integration,link,links, permalink, plugin, plugins, post,posts,simple,url,wordpress,redirect,offsite
 Requires at least: 3.1
-Tested up to: 3.2
+Tested up to: 3.9.1
 Stable tag: trunk
 
 Make a post redirect to an external URL
