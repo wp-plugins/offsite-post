@@ -1,17 +1,14 @@
 <?php
 /*
 Plugin Name: Offsite Post
-Plugin URI: http://dirtysuds.com
+Plugin URI: https://github.com/pathawks/offsite-post
 Description: Redirects Links offsite
-Author: Dirty Suds
-Version: 1.00
-Author URI: http://dirtysuds.com
+Author: Pat Hawks
+Author URI: http://pathawks.com
 License: GPL2
+Version: 1.00
 
-Updates:
-1.00.20110226 - First Version
-
-  Copyright 2011 Pat Hawks  (email : pat@pathawks.com)
+  Copyright 2014 Pat Hawks  (email : pat@pathawks.com)
 
     This program is free software; you can redistribute it and/or modify
     it under the terms of the GNU General Public License as published by
