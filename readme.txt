@@ -2,6 +2,8 @@
 Contributors: pathawks,dirtysuds
 Donate link: https://github.com/pathawks/offsite-post
 Tags: bookmark,bookmarking,bookmarks,filter,free,integration,link,links, permalink, plugin, plugins, post,posts,simple,url,wordpress,redirect,offsite
+License: GPLv2
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
 Requires at least: 3.1
 Tested up to: 3.9.1
 Stable tag: trunk
